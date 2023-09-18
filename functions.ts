@@ -5,7 +5,7 @@ function addTwo(num: number): number {
 
 addTwo(5);
 
-const newWord: string = "Ayush";
+const newWord: string = "Ayush"
 
 function getValue(myVal: number) {
     if (myVal > 5) {
