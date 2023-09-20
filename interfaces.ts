@@ -13,4 +13,11 @@ const Ayush: Account = {
   startTrial: () => {
     return "Hi";
   },
+
+  githubToken: "abc"
 };
+
+// Re-opening of the interface 
+interface Account {
+  githubToken: string
+}
